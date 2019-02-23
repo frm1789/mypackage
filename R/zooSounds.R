@@ -6,5 +6,7 @@ goToTheZoo <- function(animal, sound){
 
   glue::glue("All McDonads had a farm, and that farm he had a ", animal,
              " And that ", animal, " said: ", sound,"!", sep = " ")
+
+  # Simple change 2
 }
 
